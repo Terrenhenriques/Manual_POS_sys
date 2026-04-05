@@ -1,1 +1,0 @@
-# Manual_POS_sys
