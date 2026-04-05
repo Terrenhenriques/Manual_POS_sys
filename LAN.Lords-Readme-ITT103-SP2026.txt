@@ -1,0 +1,60 @@
+Author: 	Terren L. Henriques
+Date created: 	Bet. Fri. March 20, 2025 and Fri. March 27, 2025
+Course: 	ITT103
+GitHub Public 
+URL to Code: 	https://github.com/Terrenhenriques/Manual_POS_sys.git
+--------------------------------------------------------------------------------
+Program: Best Buy Retail Store Manual Entry point of Sale System
+
+Purpose of the program:
+	
+The purpose of the program is to digitize the sales process of Best Buy 
+Retail Store to reduce manual errors and improve efficiency. This system will 
+allow cashiers to process customers purchases all while providing an easy to use 
+professional interface where they can add, remove, view cart, cash out/calculate total bill 
+(including tax and discounts), accept payment, and generate a receipt.
+
+This system is a simulation of a real world scenario, emphasizing the 
+practical application, modular design and exception handling.
+--------------------------------------------------------------------------------
+How to run program:
+
+1. Double click on the program application to launch.
+
+2. Select an operation to execute.
+	'a' to add items to cart.
+	'r' to remove items from cart.
+	'v' to view items in cart.
+	'c' to cash out/calculate and collect payment for items in cart (including tax and discount).
+	'p' to print customers receipt items.
+	'e' to exit/shutdown the program/application.
+
+3. To add an item to the cart type 'a' on the keyboard 
+then type the name of the item followed by the quantity/amount then the enter key.
+
+4. To remove an item from the cart press 'r' on the keyboard then
+press the number to the left of the item name then the enter key.
+
+5. To view cart, press 'v' on the keyboard.
+
+6. To cash out or calculate total payments press 'c' on the keyboard.
+After the system calculates totals after tax and discount if any, it will require
+you to enter the amount received/tendered then calculates the change.
+
+7. To print the current receipt press 'p' on the keyboard.
+
+8. To exit/shut down the program/application press 'e' on the keyboard.
+-----------------------------------------------------------------------------------------
+Assumption:
+1. We are going to assume that the cashiers at Best Buy Retail Store are all honest and properly authorized.
+2. We are also going to assume that the cashiers have basic English spelling skills and if lacking a 
+document will be provided to them with the correct spelling of grocery items.
+
+Limitations:
+1. All sessions/sales are final and the data is gone after the program closes or if it accidentally crashes.
+2. Anyone can change the price if they have access to the raw code itself.
+3. If any upgrading or modifications need to be done on the program, it has to be done on each and every 
+system that the code/program is written/installed on.
+
+
+I CERTIFY THAT I HAVE NOT GIVEN OR RECEIVED ANY UNAUTHORIZED ASSISTANCE ON THIS ASSIGNMENT.
